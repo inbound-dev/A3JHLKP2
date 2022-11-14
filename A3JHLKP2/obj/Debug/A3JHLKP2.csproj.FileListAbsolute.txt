@@ -1,0 +1,8 @@
+C:\Users\jordan\Documents\GitHub\A3JHLKP2\A3JHLKP2\bin\Debug\A3JHLKP2.exe.config
+C:\Users\jordan\Documents\GitHub\A3JHLKP2\A3JHLKP2\bin\Debug\A3JHLKP2.exe
+C:\Users\jordan\Documents\GitHub\A3JHLKP2\A3JHLKP2\bin\Debug\A3JHLKP2.pdb
+C:\Users\jordan\Documents\GitHub\A3JHLKP2\A3JHLKP2\obj\Debug\A3JHLKP2.csproj.AssemblyReference.cache
+C:\Users\jordan\Documents\GitHub\A3JHLKP2\A3JHLKP2\obj\Debug\A3JHLKP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jordan\Documents\GitHub\A3JHLKP2\A3JHLKP2\obj\Debug\A3JHLKP2.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Documents\GitHub\A3JHLKP2\A3JHLKP2\obj\Debug\A3JHLKP2.exe
+C:\Users\jordan\Documents\GitHub\A3JHLKP2\A3JHLKP2\obj\Debug\A3JHLKP2.pdb
